@@ -22,7 +22,7 @@
                         <mxPoint x="285" y="390" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="11" value="&lt;font color=&quot;#000000&quot;&gt;d1=(n%10)*1000&lt;br&gt;pe=n//10&lt;br&gt;d2=(pe%10)*100&lt;br&gt;d3=(pe%10)*10&lt;br&gt;d4=pe//10&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
+                <mxCell id="11" value="&lt;font color=&quot;#000000&quot;&gt;d1=(n%10)*1000&lt;br&gt;pe=n//10&lt;br&gt;d2=(pe%10)*100&lt;br&gt;pe=pe//10&lt;br&gt;d3=(pe%10)*10&lt;br&gt;d4=pe//10&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
                     <mxGeometry x="220" y="230" width="130" height="100" as="geometry"/>
                 </mxCell>
                 <mxCell id="20" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="13" target="19">
